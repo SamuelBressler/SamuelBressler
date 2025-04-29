@@ -1,0 +1,23 @@
+---
+title: "Bird Photos"
+lightbox: TRUE
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---
+
+![South Island Wren](DSCN1256.jpeg){width="50%"}
+
+![Rufous Whistler](DSCN2475.jpeg){width="50%"}
+
+![Brown Noddies](DSCN0330.jpeg){width="50%"}
+
+![Rock Wren](DSCN0521.jpeg){width="50%"}
+
+![Red-breasted Nuthatch](DSCN9716.jpeg){width="50%"}
+
+![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
+
+## ![Peregrine Falcon](DSCN2398.jpeg){width="50%"}

@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SamuelBressler",
+    "title": "Samuel Bressler",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website in development! Musings on birds, ecology, nature and more."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a biologist, ornithologist and avid birder from Southern California,."
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Bird Photos",
+    "section": "",
+    "text": "South Island Wren"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Puente-Chino Hills Christmas Bird Count\nI started this Circle in 2020 as a sort-of covid project, and it has grown by leaps and bounds in the ensuing years. Summaries of the last five counts can be found below; species totals in the 140s are typical.\nPCH CBC 2024\nPCH CBC 2023\nBirders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My CV"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
   }
 ]

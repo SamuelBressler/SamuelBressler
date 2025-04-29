@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "SamuelBressler"
+  title: "Samuel Bressler"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
+      - projects.qmd
+      - photos.qmd
+      - posts.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
