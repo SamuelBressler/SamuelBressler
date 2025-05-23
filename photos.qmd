@@ -8,7 +8,19 @@ about:
   image-width: 17em
 ---
 
-Australia 2025
+**California**
+
+![Rock Wren](DSCN0521.jpeg){width="50%"}
+
+![Red-breasted Nuthatch](DSCN9716.jpeg){width="50%"}
+
+![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
+
+![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
+
+![Warbling Vireo](WarblingVireo.JPEG){width="50%"}
+
+**Australia 2025**
 
 ![Rufous Whistler](DSCN2475.jpeg){width="50%"}
 
@@ -34,7 +46,7 @@ Australia 2025
 
 ![Black-faced Cuckooshrike](Black-facedCuckooshrike.jpeg){width="50%"}
 
-New Zealand 2025
+**New Zealand 2025**
 
 ![South Island Wren](DSCN1256.jpeg){width="50%"}
 
@@ -54,12 +66,24 @@ New Zealand 2025
 
 ![White-faced Heron](White-facedHeron.JPEG){width="50%"}
 
-#California
+**Texas 2025**
 
-![Rock Wren](DSCN0521.jpeg){width="50%"}
+![Brown-crested Flycatcher](Brown-crestedFlycatcher.JPEG){width="50%"}
 
-![Red-breasted Nuthatch](DSCN9716.jpeg){width="50%"}
+![Boat-tailed Grackle](Boat-tailedGrackle.JPEG){width="50%"}
 
-![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
+![Seaside Sparrow](SeasideSparrow.JPEG){width="50%"}
 
-![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
+![Black-throated Green Warbler](Black-throatedGreenWarbler.JPEG){width="50%"}
+
+![Bay-breasted Warbler](Bay-breastedWarbler.JPEG){width="50%"}
+
+![Blackburnian Warbler](BlackburnianWarbler.JPEG){width="50%"}
+
+![Eastern Wood-Pewee](EasternWood-Pewee.JPEG){width="50%"}
+
+![Painted Bunting](PaintedBunting.JPEG){width="50%"}
+
+![Eastern Screech-Owl](EasternScreech-Owl.JPEG){width="50%"}
+
+![Pectoral Sandpiper](PectoralSandpiper.JPEG){width="50%"}
