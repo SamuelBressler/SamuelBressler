@@ -8,11 +8,53 @@ about:
   image-width: 17em
 ---
 
-![South Island Wren](DSCN1256.jpeg){width="50%"}
+Australia 2025
 
 ![Rufous Whistler](DSCN2475.jpeg){width="50%"}
 
+![Golden-headed Cisticola](Golden-headedCisticola.JPEG){width="50%"}
+
+![Sulphur-crested Cockatoos](Sulphur-crestedCockatoo.jpeg){width="50%"}
+
+![Superb Fairywren](SuperbFairywren.jpeg){width="50%"}
+
+![Variegated Fairywren](VariegatedFairywren.jpeg){width="50%"}
+
+![Willie Wagtail](WillieWagtail.jpeg){width="50%"}
+
+![Zebra Finch](ZebraFinch.jpeg){width="50%"}
+
+![Sacred Kingfisher](SacredKingfisher.jpeg){width="50%"}
+
+![Pacific Koel](PacificKoel.jpeg){width="50%"}
+
+![Nordmann's Greenshank](NordmannsGreenshank.jpeg){width="50%"}
+
 ![Brown Noddies](DSCN0330.jpeg){width="50%"}
+
+![Black-faced Cuckooshrike](Black-facedCuckooshrike.jpeg){width="50%"}
+
+New Zealand 2025
+
+![South Island Wren](DSCN1256.jpeg){width="50%"}
+
+![Double-banded Plover](Double-bandedPlover.JPEG){width="50%"}
+
+![Australasian Gannet](AustralasianGannet.JPEG){width="50%"}
+
+![New Zealand Fantail](NewZealandFantail.JPEG){width="50%"}
+
+![New Zealand Kaka](NewZealandKaka.JPEG){width="50%"}
+
+![Northern Royal Albatross](NorthernRoyalAlbatross.JPEG){width="50%"}
+
+![White-capped Albatross](White-cappedAlbatross.JPEG){width="50%"}
+
+![Tomtit](Tomtit.JPEG){width="50%"}
+
+![White-faced Heron](White-facedHeron.JPEG){width="50%"}
+
+California
 
 ![Rock Wren](DSCN0521.jpeg){width="50%"}
 
@@ -20,4 +62,4 @@ about:
 
 ![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
 
-## ![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
+![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
