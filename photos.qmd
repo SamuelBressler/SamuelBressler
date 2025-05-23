@@ -8,7 +8,6 @@ about:
   image-width: 17em
 ---
 
-
 **California**
 
 ![Rock Wren](DSCN0521.jpeg){width="50%"}
