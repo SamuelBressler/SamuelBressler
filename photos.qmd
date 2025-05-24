@@ -20,6 +20,40 @@ about:
 
 ![Warbling Vireo](WarblingVireo.JPEG){width="50%"}
 
+![American Bittern](AmericanBittern.JPEG){width="50%"}
+
+![Bell's Sparrow](BellsSparrow.JPEG){width="50%"}
+
+![Black-crowned Night Heron](Black-crownedNightHeron.JPEG){width="50%"}
+
+![Black-throated Sparrow](Black-throatedSparrow.JPEG){width="50%"}
+
+![Black Turnstone](BlackTurnstone.JPEG){width="50%"}
+
+![Bobolink](Bobolink.JPEG){width="50%"}
+
+![Canyon Wren](CanyonWren.JPEG){width="50%"}
+
+![Hammond's Flycatcher](HammondsFlycatcher.JPEG){width="50%"}
+
+![Loggerhead Shrike](LoggerheadShrike.JPEG){width="50%"}
+
+![Mountain Bluebird](MountainBluebird.JPEG){width="50%"}
+
+![Peregrine Falcons](PeregrineFalcons.JPEG){width="50%"}
+
+![Phainopepla](Phainopepla.JPEG){width="50%"}
+
+![Sage Thrasher](SageThrasher.JPEG){width="50%"}
+
+![Savannah Sparrow](SavannahSparrow.JPEG){width="50%"}
+
+![Semipalmated Sandpiper](SemipalmatedSandpiper.JPEG){width="50%"}
+
+![Vermilion Flycatcher](VermilionFlycatcher.JPEG){width="50%"}
+
+![Yellow Warbler](YellowWarbler.JPEG){width="50%"}
+
 **Australia 2025**
 
 ![Rufous Whistler](DSCN2475.jpeg){width="50%"}
@@ -65,6 +99,10 @@ about:
 ![Tomtit](Tomtit.JPEG){width="50%"}
 
 ![White-faced Heron](White-facedHeron.JPEG){width="50%"}
+
+![Shore Plover](ShorePlover.JPEG){width="50%"}
+
+![Shore Plover](ShorePlover2.JPEG){width="50%"}
 
 **Texas 2025**
 
