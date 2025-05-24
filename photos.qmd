@@ -1,5 +1,5 @@
 ---
-title: "Bird Photos"
+title: "Photo Gallery"
 lightbox: TRUE
 toc: false
 about: 
@@ -15,8 +15,6 @@ about:
 ![Red-breasted Nuthatch](DSCN9716.jpeg){width="50%"}
 
 ![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
-
-![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
 
 ![Warbling Vireo](WarblingVireo.JPEG){width="50%"}
 
@@ -39,6 +37,8 @@ about:
 ![Loggerhead Shrike](LoggerheadShrike.JPEG){width="50%"}
 
 ![Mountain Bluebird](MountainBluebird.JPEG){width="50%"}
+
+![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
 
 ![Peregrine Falcons](PeregrineFalcons.JPEG){width="50%"}
 

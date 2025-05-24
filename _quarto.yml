@@ -11,6 +11,7 @@ website:
       - about.qmd
       - CV.qmd
       - projects.qmd
+      - birdtours.qmd
       - photos.qmd
       - posts.qmd
 
